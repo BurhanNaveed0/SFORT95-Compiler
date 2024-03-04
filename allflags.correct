@@ -1,0 +1,62 @@
+PROGRAM
+IDENT: 'circle'
+REAL
+DCOLON
+IDENT: 'r'
+COMMA
+IDENT: 'a'
+COMMA
+IDENT: 'p'
+COMMA
+IDENT: 'b'
+PRINT
+DEF
+COMMA
+SCONST: "Please enter the two radii values of circles"
+IF
+LPAREN
+IDENT: 'r'
+EQ
+ICONST: (5)
+RPAREN
+IDENT: 'a'
+ASSOP
+LPAREN
+RCONST: (3.14)
+RPAREN
+MULT
+IDENT: 'r'
+MULT
+IDENT: 'r'
+END
+IF
+PRINT
+DEF
+COMMA
+SCONST: "The output results are "
+COMMA
+IDENT: 'a'
+COMMA
+IDENT: 'p'
+COMMA
+IDENT: 'b'
+END
+PROGRAM
+IDENT: 'circle'
+
+Lines: 9
+Total Tokens: 45
+Identifiers: 5
+Integers: 1
+Reals: 1
+Strings: 2
+IDENTIFIERS:
+a (3), b (2), circle (2), p (2), r (4)
+KEYWORDS:
+END (2), IF (2), PRINT (2), PROGRAM (2), REAL (1)
+INTEGERS:
+5
+REALS:
+3.14
+STRINGS:
+"Please enter the two radii values of circles", "The output results are "

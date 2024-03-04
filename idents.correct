@@ -1,0 +1,46 @@
+REAL
+DCOLON
+IDENT: 'x1'
+COMMA
+IDENT: 'y1'
+COMMA
+IDENT: 'x2'
+COMMA
+IDENT: 'y2'
+COMMA
+ICONST: (2)
+IDENT: 'x3'
+COMMA
+IDENT: 'y3'
+COMMA
+IDENT: 'a'
+COMMA
+IDENT: 'b'
+COMMA
+IDENT: 'r'
+CHARACTER
+DCOLON
+IDENT: 'str1'
+COMMA
+IDENT: 'str2'
+INTEGER
+DCOLON
+IDENT: 'x'
+DOT
+IDENT: 'z'
+COMMA
+IDENT: 'y'
+COMMA
+IDENT: 'z'
+IDENT: 'r'
+ASSOP
+ICONST: (5)
+
+Lines: 6
+Total Tokens: 37
+Identifiers: 14
+Integers: 2
+Reals: 0
+Strings: 0
+IDENTIFIERS:
+a (1), b (1), r (2), str1 (1), str2 (1), x (1), x1 (1), x2 (1), x3 (1), y (1), y1 (1), y2 (1), y3 (1), z (2)

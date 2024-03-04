@@ -1,0 +1,30 @@
+IDENT: 'A'
+PROGRAM
+IDENT: 'contains'
+REAL
+COMMA
+INTEGER
+COMMA
+IDENT: 'and'
+IDENT: 'char'
+IDENT: 'variables'
+IDENT: 'formulas'
+IDENT: 'and'
+PRINT
+IDENT: 'results'
+THEN
+IDENT: 'execute'
+IDENT: 'the'
+IDENT: 'right'
+IDENT: 'statement'
+THEN
+END
+IDENT: 'the'
+PROGRAM
+
+Lines: 5
+Total Tokens: 23
+Identifiers: 11
+Integers: 0
+Reals: 0
+Strings: 0

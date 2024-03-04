@@ -1,0 +1,32 @@
+IDENT: 'the'
+IDENT: 'equation'
+IDENT: 'of'
+IDENT: 'a'
+IDENT: 'circle'
+REAL
+DCOLON
+IDENT: 'x1'
+COMMA
+IDENT: 'y1'
+COMMA
+IDENT: 'x2'
+COMMA
+IDENT: 'y2'
+COMMA
+ICONST: (2)
+IDENT: 'x3'
+IDENT: 'CHAR'
+DCOLON
+IDENT: 'str1'
+COMMA
+IDENT: 'str2'
+INTEGER
+DCOLON
+IDENT: 'x'
+COMMA
+IDENT: 'y'
+COMMA
+IDENT: 'z'
+IDENT: 'r'
+ASSOP
+Error in line 8: Unrecognized Lexeme {$}

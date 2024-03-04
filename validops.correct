@@ -1,0 +1,23 @@
+PLUS
+MULT
+DIV
+MINUS
+POW
+EQ
+GTHAN
+LTHAN
+ASSOP
+LPAREN
+RPAREN
+CAT
+DCOLON
+ASSOP
+DEF
+COMMA
+
+Lines: 7
+Total Tokens: 16
+Identifiers: 0
+Integers: 0
+Reals: 0
+Strings: 0

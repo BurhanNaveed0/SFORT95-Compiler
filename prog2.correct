@@ -1,0 +1,13 @@
+
+Lines: 17
+Total Tokens: 71
+Identifiers: 8
+Integers: 3
+Reals: 1
+Strings: 2
+IDENTIFIERS:
+READ (1), a (4), b (4), circle (2), p (3), r (5), str1 (1), str2 (1)
+KEYWORDS:
+CHARACTER (1), END (3), IF (4), PRINT (2), PROGRAM (2), REAL (1)
+STRINGS:
+"Please enter the two radii values of circles", "The output results are "

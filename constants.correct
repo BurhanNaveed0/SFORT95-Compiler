@@ -1,0 +1,21 @@
+RCONST: (23.5)
+SCONST: "Please type the coordinates of three points"
+RCONST: (15.25)
+ICONST: (125)
+ICONST: (4321)
+RCONST: (.725)
+SCONST: "The center of the circle through these points is"
+ICONST: (625)
+
+Lines: 5
+Total Tokens: 8
+Identifiers: 0
+Integers: 3
+Reals: 3
+Strings: 2
+INTEGERS:
+125, 625, 4321
+REALS:
+0.725, 15.25, 23.5
+STRINGS:
+"Please type the coordinates of three points", "The center of the circle through these points is"

@@ -1,0 +1,17 @@
+ICONST: (3456)
+ICONST: (1025)
+ICONST: (1234)
+ICONST: (45)
+ICONST: (4321)
+ICONST: (125)
+ICONST: (278)
+ICONST: (1025)
+
+Lines: 3
+Total Tokens: 8
+Identifiers: 0
+Integers: 7
+Reals: 0
+Strings: 0
+INTEGERS:
+45, 125, 278, 1025, 1234, 3456, 4321

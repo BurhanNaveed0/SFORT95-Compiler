@@ -1,0 +1,6 @@
+RCONST: (23.5)
+RCONST: (15.7)
+DOT
+IDENT: 'and'
+DOT
+Error in line 3: Unrecognized Lexeme {0.758.}
